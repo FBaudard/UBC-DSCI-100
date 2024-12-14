@@ -1,1 +1,2 @@
-# UBC-DSCI-100
+# UBC-DSCI-100-Archive
+
