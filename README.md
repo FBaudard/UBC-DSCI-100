@@ -1,2 +1,3 @@
 # UBC-DSCI-100-Archive
 
+That repository is an archive of a project carried out in 2023 at the University of British Columbia as part of the class Introduction to Data Science (DSCI 100). Using data provided by the Canadian Government for the Canadian provinces for the last 30 years, we explore the interplay between Canada's carbon emissions and the growth of its economic sector (Transport & buildings). After fitting a linear regression and k nearest neighbors model, our findings show the correlation between the two. All the teammates worked on the code, yet I was in charge of writting the introduction and conclusion while my teammates provided the explanations of the code.
